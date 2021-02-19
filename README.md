@@ -1,7 +1,7 @@
 # Web-technology-and-web-design
 Include all labs of course
 
-Chekh the 'main' branch to see all project file & other branches contain codes for laboratory, the name corresponds to the number of the lab.
+Chekh master branch to see all project file & other branches contain codes for laboratory, the name corresponds to the number of the lab.
 
 Vatiant 17
 My own topic: IT NETWORK
