@@ -1,7 +1,6 @@
 > IT network for developers <
  This app includes authentication, profiles and forum posts.
 
-Since I am a beginner, I wrote this application with tutorial & "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). 
 
 Live Demo: 
 
