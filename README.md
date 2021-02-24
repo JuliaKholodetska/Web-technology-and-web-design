@@ -1,13 +1,16 @@
-> IT network for developers <
- This app includes authentication, profiles and forum posts.
+# Web-technology-and-web-design
+Include all labs of course
+
+Chekh master branch to see all project file & other branches contain codes for laboratory, the name corresponds to the number of the lab.
+
+Vatiant 17
+My own topic: IT NETWORK
+This app includes authentication, profiles and forum posts.
 
 
-Live Demo: 
+Check Live Demo: https://sheltered-caverns-19723.herokuapp.com/
 
-Features:
-•	User authentication (login + registration)
-•	User input validation 
-•	Domain logic -> programmer network
+Then drink coffee ☕️ & have a nice day:)
 
 Tech stack: 
 [React]and [React Router]for frontend
@@ -18,15 +21,7 @@ Tech stack:
 
 # Quick Start
 
-### U need to add your_mondoDB_link and githubtoken in default.json file in config folder 
 
-```
-{
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
-}
-```
 
 ### Install dependencies
 
@@ -45,11 +40,4 @@ npm install
 
 ```
 npm run dev
-```
-
-### Build for production
-
-```bash
-cd client
-npm run build
 ```
